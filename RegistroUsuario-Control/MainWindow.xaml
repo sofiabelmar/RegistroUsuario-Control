@@ -28,7 +28,7 @@
         
         <StackPanel Name="panelUsuario" Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="2" HorizontalAlignment="Center"></StackPanel>
 
-        <Button Grid.Column="1" Grid.Row="4" FontFamily="Freight Sans" Foreground="#FF2D4D6E" Width="110" Click="GuardarButton_Click" Name="GuardarButton" IsDefault="True">Guardar</Button>
+        <Button Grid.Column="1" Grid.Row="4" FontFamily="Freight Sans" Foreground="#FF2D4D6E" Width="100" Click="GuardarButton_Click" Name="GuardarButton" IsDefault="True">Guardar</Button>
         
     </Grid>
 </Window>
